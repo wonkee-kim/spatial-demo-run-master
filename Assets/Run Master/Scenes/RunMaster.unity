@@ -1444,6 +1444,7 @@ MonoBehaviour:
   environmentSettings:
     disableTeleport: 1
     useSeatsAsSpawnPoints: 0
+    cameraRotationMode: 1
     avatarControlSettings: 0
     localAvatarMovingSpeed: 3
     localAvatarRunSpeed: 5.5
